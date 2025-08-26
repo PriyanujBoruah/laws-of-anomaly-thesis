@@ -1,0 +1,236 @@
+--- Final PME Analysis & Model Consistency Report (All Datasets) ---
+======================================================================
+
+🔬 COHORT: Group 1: High Row-to-Size (Computational Efficiency)
+
+  --- ✅ Top Model Group Consistency ---
+  - Appeared in Top 1:
+    - Tree-Based Ensembles      (72.7%)
+    - Linear Models             (27.3%)
+  - Appeared in Top 3:
+    - Tree-Based Ensembles      (69.7%)
+    - Linear Models             (28.8%)
+    - Proximity-Based Models    (3.0%)
+    - Robust/Specialized Models (1.5%)
+  - Appeared in Top 5:
+    - Tree-Based Ensembles      (64.5%)
+    - Linear Models             (31.8%)
+    - Robust/Specialized Models (2.7%)
+    - Proximity-Based Models    (2.7%)
+    - Simple Tree Models        (0.9%)
+  ---------------------------------------
+
+  --- ❌ Bottom Model Group Underperformance ---
+  - Appeared in Bottom 1:
+    - Linear Models             (52.2%)
+    - Robust/Specialized Models (39.1%)
+  - Appeared in Bottom 3:
+    - Robust/Specialized Models (33.3%)
+    - Linear Models             (33.3%)
+    - Proximity-Based Models    (7.2%)
+    - Tree-Based Ensembles      (7.2%)
+    - Simple Tree Models        (5.8%)
+  - Appeared in Bottom 5:
+    - Linear Models             (35.7%)
+    - Robust/Specialized Models (27.0%)
+    - Proximity-Based Models    (8.7%)
+    - Tree-Based Ensembles      (7.8%)
+    - Simple Tree Models        (7.0%)
+  -------------------------------------------
+
+  --- 🏆 Top 5 Individual Models (by # of Wins) ---
+  - Gradient Boosting Regressor         (5 wins) (Avg. Win Margin: 2.5%)
+  - LightGBM                            (3 wins) (Avg. Win Margin: 1.6%)
+  - Extra Trees Regressor               (3 wins) (Avg. Win Margin: 312.0%)
+  - Linear Regression                   (3 wins) (Avg. Win Margin: 0.0%)
+  - Random Forest Regressor             (2 wins) (Avg. Win Margin: 2.0%)
+  -------------------------------------------------
+
+  --- 📉 Worst 5 Individual Models (by # of Losses) ---
+  - Least Angle Regression              (10 losses) (Avg. Loss Margin: 92.5%)
+  - Passive Aggressive Regressor        (8 losses) (Avg. Loss Margin: 66.5%)
+  - Dummy Regressor                     (2 losses) (Avg. Loss Margin: 572.9%)
+  - Bayesian Ridge                      (2 losses) (Avg. Loss Margin: 100.0%)
+  - Huber Regressor                     (1 losses) (Avg. Loss Margin: 79.4%)
+  ---------------------------------------------------
+
+
+🔬 COHORT: Group 2: Wide Data (Parameter Efficiency)
+
+  --- ✅ Top Model Group Consistency ---
+  - Appeared in Top 1:
+    - Tree-Based Ensembles      (42.3%)
+    - Linear Models             (34.6%)
+    - Proximity-Based Models    (23.1%)
+    - Robust/Specialized Models (3.8%)
+  - Appeared in Top 3:
+    - Tree-Based Ensembles      (43.6%)
+    - Linear Models             (39.7%)
+    - Proximity-Based Models    (10.3%)
+    - Robust/Specialized Models (10.3%)
+    - Simple Tree Models        (2.6%)
+  - Appeared in Top 5:
+    - Linear Models             (45.4%)
+    - Tree-Based Ensembles      (43.1%)
+    - Robust/Specialized Models (9.2%)
+    - Proximity-Based Models    (6.9%)
+    - Simple Tree Models        (1.5%)
+  ---------------------------------------
+
+  --- ❌ Bottom Model Group Underperformance ---
+  - Appeared in Bottom 1:
+    - Linear Models             (42.9%)
+    - Robust/Specialized Models (28.6%)
+    - Simple Tree Models        (7.1%)
+    - Tree-Based Ensembles      (7.1%)
+  - Appeared in Bottom 3:
+    - Robust/Specialized Models (26.2%)
+    - Linear Models             (25.0%)
+    - Tree-Based Ensembles      (16.7%)
+    - Simple Tree Models        (11.9%)
+    - Proximity-Based Models    (2.4%)
+  - Appeared in Bottom 5:
+    - Linear Models             (27.1%)
+    - Robust/Specialized Models (21.4%)
+    - Tree-Based Ensembles      (19.3%)
+    - Simple Tree Models        (11.4%)
+    - Proximity-Based Models    (6.4%)
+  -------------------------------------------
+
+  --- 🏆 Top 5 Individual Models (by # of Wins) ---
+  - K-Nearest Neighbors                 (6 wins) (Avg. Win Margin: 27.8%)
+  - Extra Trees Regressor               (4 wins) (Avg. Win Margin: 0.9%)
+  - Bayesian Ridge                      (4 wins) (Avg. Win Margin: 1.2%)
+  - Random Forest Regressor             (2 wins) (Avg. Win Margin: 0.0%)
+  - Gradient Boosting Regressor         (2 wins) (Avg. Win Margin: 0.7%)
+  -------------------------------------------------
+
+  --- 📉 Worst 5 Individual Models (by # of Losses) ---
+  - Least Angle Regression              (12 losses) (Avg. Loss Margin: 98.0%)
+  - Passive Aggressive Regressor        (8 losses) (Avg. Loss Margin: 96.3%)
+  - Dummy Regressor                     (4 losses) (Avg. Loss Margin: 13582.5%)
+  - Decision Tree Regressor             (2 losses) (Avg. Loss Margin: 20.8%)
+  - XGBoost                             (2 losses) (Avg. Loss Margin: 28.6%)
+  ---------------------------------------------------
+
+
+🔬 COHORT: Group 3: Messy Data (Data Efficiency)
+
+  --- ✅ Top Model Group Consistency ---
+  - Appeared in Top 1:
+    - Tree-Based Ensembles      (50.0%)
+    - Linear Models             (19.2%)
+    - Proximity-Based Models    (19.2%)
+    - Robust/Specialized Models (11.5%)
+  - Appeared in Top 3:
+    - Tree-Based Ensembles      (51.3%)
+    - Linear Models             (26.9%)
+    - Robust/Specialized Models (9.0%)
+    - Proximity-Based Models    (9.0%)
+    - Simple Tree Models        (3.8%)
+  - Appeared in Top 5:
+    - Tree-Based Ensembles      (52.3%)
+    - Linear Models             (29.2%)
+    - Robust/Specialized Models (8.5%)
+    - Proximity-Based Models    (6.9%)
+    - Simple Tree Models        (2.3%)
+  ---------------------------------------
+
+  --- ❌ Bottom Model Group Underperformance ---
+  - Appeared in Bottom 1:
+    - Linear Models             (46.2%)
+    - Robust/Specialized Models (34.6%)
+    - Tree-Based Ensembles      (7.7%)
+  - Appeared in Bottom 3:
+    - Robust/Specialized Models (33.3%)
+    - Linear Models             (29.5%)
+    - Tree-Based Ensembles      (15.4%)
+    - Simple Tree Models        (5.1%)
+    - Proximity-Based Models    (3.8%)
+  - Appeared in Bottom 5:
+    - Linear Models             (32.3%)
+    - Robust/Specialized Models (25.4%)
+    - Tree-Based Ensembles      (15.4%)
+    - Proximity-Based Models    (7.7%)
+    - Simple Tree Models        (5.4%)
+  -------------------------------------------
+
+  --- 🏆 Top 5 Individual Models (by # of Wins) ---
+  - Extra Trees Regressor               (5 wins) (Avg. Win Margin: 1.2%)
+  - K-Nearest Neighbors                 (5 wins) (Avg. Win Margin: 76.0%)
+  - Gradient Boosting Regressor         (3 wins) (Avg. Win Margin: 2.1%)
+  - XGBoost                             (2 wins) (Avg. Win Margin: 0.5%)
+  - Ridge Regression                    (2 wins) (Avg. Win Margin: 584.1%)
+  -------------------------------------------------
+
+  --- 📉 Worst 5 Individual Models (by # of Losses) ---
+  - Least Angle Regression              (9 losses) (Avg. Loss Margin: 90.0%)
+  - Passive Aggressive Regressor        (9 losses) (Avg. Loss Margin: 88.8%)
+  - Dummy Regressor                     (3 losses) (Avg. Loss Margin: 7770.0%)
+  - Bayesian Ridge                      (3 losses) (Avg. Loss Margin: 99.9%)
+  - AdaBoost Regressor                  (2 losses) (Avg. Loss Margin: 33.2%)
+  ---------------------------------------------------
+
+
+🔬 COHORT: Group 4: Baseline / Unknown (Control Group)
+
+  --- ✅ Top Model Group Consistency ---
+  - Appeared in Top 1:
+    - Tree-Based Ensembles      (68.4%)
+    - Robust/Specialized Models (15.8%)
+    - Linear Models             (15.8%)
+    - Proximity-Based Models    (5.3%)
+    - Simple Tree Models        (5.3%)
+  - Appeared in Top 3:
+    - Tree-Based Ensembles      (66.7%)
+    - Linear Models             (31.6%)
+    - Robust/Specialized Models (7.0%)
+    - Simple Tree Models        (5.3%)
+    - Proximity-Based Models    (3.5%)
+  - Appeared in Top 5:
+    - Tree-Based Ensembles      (67.4%)
+    - Linear Models             (32.6%)
+    - Robust/Specialized Models (5.3%)
+    - Proximity-Based Models    (4.2%)
+    - Simple Tree Models        (4.2%)
+  ---------------------------------------
+
+  --- ❌ Bottom Model Group Underperformance ---
+  - Appeared in Bottom 1:
+    - Linear Models             (36.4%)
+    - Robust/Specialized Models (27.3%)
+    - Tree-Based Ensembles      (4.5%)
+    - Simple Tree Models        (4.5%)
+  - Appeared in Bottom 3:
+    - Robust/Specialized Models (27.3%)
+    - Linear Models             (22.7%)
+    - Simple Tree Models        (10.6%)
+    - Tree-Based Ensembles      (9.1%)
+    - Proximity-Based Models    (4.5%)
+  - Appeared in Bottom 5:
+    - Linear Models             (30.9%)
+    - Robust/Specialized Models (26.4%)
+    - Tree-Based Ensembles      (10.0%)
+    - Simple Tree Models        (8.2%)
+    - Proximity-Based Models    (6.4%)
+  -------------------------------------------
+
+  --- 🏆 Top 5 Individual Models (by # of Wins) ---
+  - Extra Trees Regressor               (6 wins) (Avg. Win Margin: 1.1%)
+  - Gradient Boosting Regressor         (5 wins) (Avg. Win Margin: 4.3%)
+  - Huber Regressor                     (3 wins) (Avg. Win Margin: 1534.2%)
+  - Ridge Regression                    (2 wins) (Avg. Win Margin: 0.0%)
+  - K-Nearest Neighbors                 (1 wins) (Avg. Win Margin: 12.4%)
+  -------------------------------------------------
+
+  --- 📉 Worst 5 Individual Models (by # of Losses) ---
+  - Least Angle Regression              (8 losses) (Avg. Loss Margin: 98.6%)
+  - Passive Aggressive Regressor        (6 losses) (Avg. Loss Margin: 87.6%)
+  - Dummy Regressor                     (6 losses) (Avg. Loss Margin: 951.7%)
+  - AdaBoost Regressor                  (1 losses) (Avg. Loss Margin: 59.7%)
+  - Decision Tree Regressor             (1 losses) (Avg. Loss Margin: 40.4%)
+  ---------------------------------------------------
+
+
+======================================================================
+Final analysis complete.

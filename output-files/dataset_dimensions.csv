@@ -1,0 +1,101 @@
+Dataset,Samples,Features
+Concrete Compressive Strength, 1030, 9
+Medical Cost Personal, 1338, 7
+Student Grades Prediction, 395, 33
+Insurance Forecast, 1338, 7
+Car Details, 8128, 13
+Heart Attack Analysis & Prediction, 303, 14
+Real Estate Price Prediction, 414, 8
+Fish Market, 159, 7
+IMDB Movie Data, 1000, 16
+PIMA Indian Diabetes, 768, 9
+House Prices - Advanced Regression Techniques, 1460, 81
+CarDekho Used Car Data, 4340, 8
+Boston Housing, 506, 14
+Car Purchase Amount Prediction, 4009, 12
+Ecommerce Customers, 1000, 8
+USA Housing, 5000, 7
+Electric Vehicle Population Data, 10000, 17
+Graduate Admission 2, 500, 9
+Superstore Sales, 9800, 18
+Walmart Sales, 6435, 8
+Employee Future Prediction, 4653, 9
+Heart Disease UCI, 920, 16
+Mobile Price Classification, 2000, 21
+Students Performance in Exams, 1000, 8
+Country Vaccinations by Manufacturer, 35623, 4
+Credit Card Fraud Detection, 5000, 31
+Health Insurance Cross Sell Prediction, 10000, 11
+Human Resources Dataset, 311, 36
+Advertising Dataset, 200, 5
+Car Price Prediction, 2500, 10
+Fish Dataset, 159, 7
+Salary Data Data - Simple Linear Regression, 30, 3
+Credit Card Spending Habits In India, 20000, 7
+Hotel Booking Demand, 20000, 32
+Obesity Level Estimation, 2111, 17
+Water Quality Prediction, 7999, 21
+Weather Prediction For Weather Forecast, 1461, 6
+Credit Card Customers, 10127, 23
+Online Shoppers Purchasing Intention, 12330, 18
+Rain in Australia, 20000, 23
+Water Potability, 3276, 10
+Bank Marketing Dataset, 11162, 17
+Cervical Cancer Risk Factors, 858, 36
+Fertility Diagnosis, 99, 10
+Predict Students Dropout and Academic Success, 4424, 35
+Predicting Churn for Bank Customers, 10000, 14
+QSAR Biodegradation, 1055, 42
+Statlog Heart Dataset, 303, 15
+Adult Census Income, 20000, 15
+Student Alcohol Consumption (Mat), 395, 33
+Student Alcohol Consumption (Por), 649, 33
+Weather Dataset (Humidity), 20000, 37
+Weather Dataset (Pressure), 15000, 37
+Weather Dataset (Temperature), 15000, 37
+Weather Dataset (Direction), 20000, 37
+Weather Dataset (Wind Speed), 20000, 37
+Air Quality Data In India (City Day), 20000, 16
+Air Quality Data In India (City Hour), 20000, 16
+Air Quality Data In India (Station Day), 20000, 16
+Air Quality Data In India (Station Hour), 20000, 16
+Loan Prediction Problem Dataset, 614, 13
+Stroke Prediction Dataset, 5110, 12
+Telco Customer Churn, 7043, 21
+Used Car Price Prediction, 2059, 20
+Default of Credit Card Clients Dataset, 30000, 25
+World University Rankings, 2000, 9
+Air Quality Dataset, 9471, 17
+50 Startups, 50, 5
+Air Quality Data in India (2017-2022), 20000, 6
+Crop Recommendation Dataset, 2200, 8
+Customer Churn Prediction, 10000, 12
+Diamonds Dataset, 20000, 11
+Headbrains Dataset, 237, 4
+Sleep Health and Lifestyle Dataset, 374, 13
+Travel Insurance Prediction, 1987, 10
+World Happiness Report, 149, 20
+Weather Dataset (City Attributes), 36, 4
+Bitcoin Historical Data, 2651, 9
+Heart Failure Prediction, 918, 12
+Netflix Userbase, 2500, 10
+Top 5000 Youtube Channels, 5000, 6
+Unemployment in India, 768, 7
+Video Game Sales, 16598, 11
+Anuran Calls (MFCCs), 7195, 26
+Banknote Authentication, 1372, 5
+Car Features and MSRP, 11914, 16
+Census Income Dataset, 32561, 15
+Online Retail, 50000, 8
+Turkish Student Evaluation, 5820, 33
+Credit Card Approval Prediction, 40000, 18
+FIFA 22 Players Data, 5000, 110
+Goodreads Books, 11127, 12
+Medical Appointment No Shows, 50000, 14
+New York City Airbnb Open Data, 35000, 16
+US Accidents (2016-2021), 14000, 47
+Predicting House Prices in Bengaluru, 13320, 9
+Body Fat Prediction, 252, 15
+Iris Species, 150, 6
+Mall Customer Segmentation, 200, 5
+Sales Prediction for Big Mart Sales, 8523, 12

@@ -1,0 +1,13 @@
+--- Dimensionality Deep Dive: Binned Analysis (Corrected) ---
+======================================================================
+A positive value means Ensembles performed better.
+A negative value means Linear Models performed better.
+
+Dimensionality_Bin  Delta_Ensemble_vs_Linear
+Low (Tall Datasets)                0.111692
+Medium (Balanced Datasets)         0.047205
+High (Wide Datasets)               0.065595
+
+--- Interpretation ---
+- Finding: There is no clear, monotonic trend. The performance gap between Ensembles and Linear Models does not consistently increase or decrease with dimensionality.
+======================================================================
